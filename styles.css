@@ -11,9 +11,9 @@ select , textarea, input{
     height: 30px;
     border: none;
     width: 300px;
-    font-weight: bold;
     display: flex;
     margin-top: 50px;
+    font-weight: bold;
     margin-left: 600px;
     border-radius: 30px;
 }
@@ -25,7 +25,9 @@ textarea{
 
 input[type="submit"]{
     color: white;
+    justify-content: center;
     background-color: black;
+    text-transform: uppercase;
 }
 
 
