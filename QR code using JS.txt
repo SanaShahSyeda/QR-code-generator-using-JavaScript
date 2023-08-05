@@ -1,0 +1,10 @@
+=> QR ---Quick Response
+
+=> 2-D bar code.
+
+=> Made up of black and white pixel patterns.
+
+=>Pros: 
+Easy to use.
+Scanned anytime & anywhere.
+
